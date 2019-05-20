@@ -6,8 +6,9 @@
 - [X] [Cousera Data Science Capstone Project - Text Input Prediction](https://github.com/Nov05/Coursera-Data_Science-Capstone) ![Progress](http://progressed.io/bar/100)  
 [Version 2](https://github.com/Nov05/Shiny-Text_Input_Prediction-V2)  
 [Version 1](https://github.com/Nov05/Shiny-Text_Input_Prediction)  
-- [X] [Coursera Data Science Shiny App Chinese Cities](https://github.com/Nov05/Shiny-CN_Cities)  
-- [X] [Coursera Data Scicence Slidify Presentation Chinese Cities](https://github.com/Nov05/Slidify-CN_Cities)  
+- [X] [Coursera Data Science Simple Shiny App Chinese Cities](https://github.com/Nov05/Shiny-CN_Cities)  
+- [X] [Coursera Data Science Simple Shiny App US Census 2010](https://github.com/Nov05/Shiny-US_Cencus_2010)  
+- [X] [Coursera Data Scicence Simple Slidify Presentation Chinese Cities](https://github.com/Nov05/Slidify-CN_Cities)  
 
 ## 【MOOC】  
 
