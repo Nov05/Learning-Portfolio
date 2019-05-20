@@ -29,7 +29,7 @@ Course 10. [Data Science Capstone](https://github.com/Nov05/Coursera-Data_Scienc
 - [X] [Working with Dates and Times in Python](https://www.datacamp.com/courses/working-with-dates-and-times-in-python) (4 hours, 14 Videos, 48 Exercises, 790 Participants)  
 - [ ] [Introduction to Seaborn](https://www.datacamp.com/courses/introduction-to-seaborn) (4 hours, 14 Videos, 44 Exercises, 375 Participants)  
 
-#### :point_right:[【Data Scientist with Python】](https://www.datacamp.com/tracks/data-scientist-with-python) 
+#### :point_right:[【Data Scientist with Python】](https://www.datacamp.com/tracks/data-scientist-with-python) ![Progress](http://progressed.io/bar/1)   
 84 hours 22 Courses
 
 # :mortar_board:Udemy
