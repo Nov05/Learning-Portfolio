@@ -1,7 +1,7 @@
 # 【Nov05's Learning Portfolio】
 
 **SAP 【172 hours committed】  
-Data Science 【408 hours committed】  
+Data Science 【412 hours committed】  
 Machine Learning 【200 hours committed】**
 
 Computer Science  
