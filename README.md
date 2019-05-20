@@ -17,7 +17,7 @@ Machine Learning 【200 hours】**
 # 【MOOC】  
 
 # :mortar_board:openSAP
-
+[【Notes】](https://github.com/Nov05/openSAP)  
 - [X] [SAP Leonardo - Enabling the Intelligent Enterprise (leo1)](https://open.sap.com/courses/leo1) (2 hours)  
 - [X] [Procurement Transformation with SAP Ariba and SAP S/4HANA (Repeat)(srm1-1)](https://open.sap.com/courses/srm1-1) (3 hours/week * 3 weeks)   
 - [X] [SAP Leonardo Design-Led Engagements Demystified (dleo1)](https://open.sap.com/courses/dleo1) (2 hours)  
