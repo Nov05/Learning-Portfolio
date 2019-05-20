@@ -47,28 +47,26 @@ Others
 
 # :mortar_board: Coursera
 
-#### :point_right: [【Deep Learning Specialization】](https://www.coursera.org/specializations/deep-learning)  
-(7 courses, 11 hours/weeks * 13 weeks)  ![Progress](http://progressed.io/bar/36)  
-[【Notes】](https://github.com/Nov05/Coursera-Deep_Learning_Specialization)  
+#### :point_right: [【Deep Learning Specialization】](https://www.coursera.org/specializations/deep-learning) [【Notes】](https://github.com/Nov05/Coursera-Deep_Learning_Specialization) (7 courses, 11 hours/weeks * 13 weeks) ![Progress](http://progressed.io/bar/36)    
 - [X] Precourse 1. AI For Everyone  
 - [X] Precourse 2. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning  
-- [ ] Course 1. Neural Networks and Deep Learning  
-- [ ] Course 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization  
-- [ ] Course 3. Structuring Machine Learning Projects  
-- [ ] Course 4. Convolutional Neural Networks  
-- [ ] Course 5. Sequence Models 
+- [ ] 1. Neural Networks and Deep Learning  
+- [ ] 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization  
+- [ ] 3. Structuring Machine Learning Projects  
+- [ ] 4. Convolutional Neural Networks  
+- [ ] 5. Sequence Models 
 
 #### :point_right: [【Data Science Specialization】](https://www.coursera.org/specializations/jhu-data-science?) [【Notes】](https://github.com/Nov05/Coursera-Data_Science-Courses) (10 courses, 400 hours) ![Progress](http://progressed.io/bar/100)  
-- [X] Course 1. The Data Scientist’s Toolbox  
-- [X] Course 2. R Programming  
-- [X] Course 3. Getting and Cleaning Data  
-- [X] Course 4. Exploratory Data Analysis  
-- [X] Course 5. Reproducible Research  
-- [X] Course 6. Statistical Inference  
-- [X] Course 7. Regression Models  
-- [X] Course 8. Practical Machine Learning  
-- [X] Course 9. Developing Data Products  
-- [X] Course 10. [Data Science Capstone](https://github.com/Nov05/Coursera-Data_Science-Capstone) [【Notes】](https://github.com/Nov05/Coursera-Data_Science-Capstone) 
+- [X] 1. The Data Scientist’s Toolbox  
+- [X] 2. R Programming  
+- [X] 3. Getting and Cleaning Data  
+- [X] 4. Exploratory Data Analysis  
+- [X] 5. Reproducible Research  
+- [X] 6. Statistical Inference  
+- [X] 7. Regression Models  
+- [X] 8. Practical Machine Learning  
+- [X] 9. Developing Data Products  
+- [X] 10. [Data Science Capstone](https://github.com/Nov05/Coursera-Data_Science-Capstone) [【Notes】](https://github.com/Nov05/Coursera-Data_Science-Capstone) 
 
 
 # :mortar_board: DataCamp
@@ -80,9 +78,8 @@ Others
 - [X] [Working with Dates and Times in Python](https://www.datacamp.com/courses/working-with-dates-and-times-in-python) (4 hours, 14 Videos, 48 Exercises, 790 Participants) 2019-05-17  
 - [ ] [Introduction to Seaborn](https://www.datacamp.com/courses/introduction-to-seaborn) (4 hours, 14 Videos, 44 Exercises, 375 Participants) ![Progress](http://progressed.io/bar/25)  
 
-#### :point_right:[【Data Scientist with Python】](https://www.datacamp.com/tracks/data-scientist-with-python) ![Progress](http://progressed.io/bar/5)   
-
-84 hours 22 Courses  
+#### :point_right:[【Data Scientist with Python】](https://www.datacamp.com/tracks/data-scientist-with-python) (22 courses, 84 hours) ![Progress](http://progressed.io/bar/5)   
+ 
 - [X] [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science) (4 hours, 11 Videos, 57 Exercises)  
 - [ ] [Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science) (4 hours, 18 Videos, 87 Exercises) ![Progress](http://progressed.io/bar/1)    
 
