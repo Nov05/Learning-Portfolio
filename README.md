@@ -2,10 +2,10 @@
 
 This is a portfolio repository.
 
-###【MOOC】
+【MOOC】
 Udacity
 Coursera
 Udemy 
 openSAP
 
-###【Project】
+【Project】
