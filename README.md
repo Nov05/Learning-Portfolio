@@ -9,7 +9,7 @@
 # :mortar_board:Coursera
 
 - [X] [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science?) (10 courses, 400 hours) ![Progress](http://progressed.io/bar/100)  
-  10. [Data Science Capstone](https://github.com/Nov05/Coursera-Data_Science-Capstone) [GitHub repository](https://github.com/Nov05/Coursera-Data_Science-Capstone)  
+  10. [Data Science Capstone](https://github.com/Nov05/Coursera-Data_Science-Capstone) ([GitHub repository](https://github.com/Nov05/Coursera-Data_Science-Capstone))  
 
 
 # :mortar_board:DataCamp
