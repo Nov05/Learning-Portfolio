@@ -8,15 +8,15 @@
 
 # :mortar_board:Coursera
 - [ ] [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) [【Notes】](https://github.com/Nov05/Coursera-Deep_Learning_Specialization) (7 courses, 11 hours/weeks * 12 weeks) ![Progress](http://progressed.io/bar/36)  
-  - Precourse 1. AI For Everyone  
-  - Precourse 2. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning  
-  - 1. Neural Networks and Deep Learning  
-  - 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization  
-  - 3. Structuring Machine Learning Projects  
-  - 4. Convolutional Neural Networks  
-  - 5. Sequence Models  
+- Precourse 1. AI For Everyone  
+- Precourse 2. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning  
+- Course 1. Neural Networks and Deep Learning  
+- Course 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization  
+- Course 3. Structuring Machine Learning Projects  
+- Course 4. Convolutional Neural Networks  
+- Course 5. Sequence Models  
 - [X] [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science?) (10 courses, 400 hours) ![Progress](http://progressed.io/bar/100)  
-  10. [Data Science Capstone](https://github.com/Nov05/Coursera-Data_Science-Capstone) [【Notes】](https://github.com/Nov05/Coursera-Data_Science-Capstone) 
+- Course 10. [Data Science Capstone](https://github.com/Nov05/Coursera-Data_Science-Capstone) [【Notes】](https://github.com/Nov05/Coursera-Data_Science-Capstone) 
 
 
 # :mortar_board:DataCamp
