@@ -20,7 +20,7 @@ Others
 
 # 【MOOC】  
 
-# :mortar_board:openSAP
+# :mortar_board: openSAP
 
 [【Notes】](https://github.com/Nov05/openSAP)  
 
@@ -38,14 +38,14 @@ Others
 - [X] [Introduction to Software Development on SAP HANA (hana1)](https://open.sap.com/courses/hana1) (4 hours/week * 6 weeks)  
 
 
-# :mortar_board:Udacity
+# :mortar_board: Udacity
 
 - [X] [PyTorch Scholarship Challenge](https://classroom.udacity.com/nanodegrees/nd188/dashboard/overview) (2 months, 120 hours)  
 - [X] [Introduction to Computer Science (February 2012)](https://classroom.udacity.com/courses/cs101-old) (22 Lessons)  
 - [X] [Intro to Artificial Intelligence (November 2011)](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271) (2 months, 80 hours)
 
 
-# :mortar_board:Coursera
+# :mortar_board: Coursera
 
 - [ ] [【Deep Learning Specialization】](https://www.coursera.org/specializations/deep-learning) [【Notes】](https://github.com/Nov05/Coursera-Deep_Learning_Specialization) (7 courses, 11 hours/weeks * 13 weeks)  ![Progress](http://progressed.io/bar/36)  
 Precourse 1. AI For Everyone  
@@ -68,7 +68,7 @@ Course 9. Developing Data Products
 Course 10. [Data Science Capstone](https://github.com/Nov05/Coursera-Data_Science-Capstone) [【Notes】](https://github.com/Nov05/Coursera-Data_Science-Capstone) 
 
 
-# :mortar_board:DataCamp
+# :mortar_board: DataCamp
 
 [【Notes】](https://github.com/Nov05/DataCamp)  
 
@@ -84,7 +84,7 @@ Course 10. [Data Science Capstone](https://github.com/Nov05/Coursera-Data_Scienc
 - [ ] [Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science) (4 hours, 18 Videos, 87 Exercises) ![Progress](http://progressed.io/bar/1)    
 
 
-# :mortar_board:Udemy
+# :mortar_board: Udemy
 
 [【Notes】](https://github.com/Nov05/Udemy) 
 
