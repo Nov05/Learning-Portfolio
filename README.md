@@ -1,8 +1,8 @@
 # 【Nov05's Portfolio】
 
-**:scroll:SAP  
-:scroll:Data Science  
-:scroll:Machine Learning**
+**SAP  
+Data Science  
+Machine Learning**
 
 # 【Project】
 
