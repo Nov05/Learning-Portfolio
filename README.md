@@ -108,3 +108,16 @@ Others
 - [ ] [The Data Science Course 2019: Complete Data Science Bootcamp](https://www.udemy.com/share/100YASBkIec1tQR3o=/) (436 lectures, 26 hours)  
 - [ ] [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/share/100YFcBkIec1tQR3o=/) (149 lectures, 22.5 hours)  
 - [ ] [Data Science Interview Preparation - Career Guide](https://www.udemy.com/share/101aL6BkIec1tQR3o=/) (23 lectures, 4 hours)  
+
+# :mortar_board: Khan Academy
+
+#### :point_right: [【Computer Science】](https://www.khanacademy.org/computing/computer-science)  
+- [ ] [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)  
+- [ ] [Journey into cryptography](https://www.khanacademy.org/computing/computer-science/cryptography)  
+- [ ] [Journey into information theory](https://www.khanacademy.org/computing/computer-science/informationtheory)  
+- [ ] [How Computers Work](https://www.khanacademy.org/computing/computer-science/how-computers-work2)  
+- [ ] [Internet 101](https://www.khanacademy.org/computing/computer-science/internet-intro)  
+
+
+
+
