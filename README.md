@@ -3,6 +3,9 @@
 ## 【Project】
 
 - [X] [Udacity Pytorch Challenge](https://github.com/Nov05/Udacity-PyTorch_Challenge) (2 months, 120 hours) ![Progress](http://progressed.io/bar/100)  
+- [X] Cousera Data Science Capstone Project - Text Input Prediction  
+[Version 2](https://github.com/Nov05/Shiny-Text_Input_Prediction-V2)  
+[Version 1](https://github.com/Nov05/Shiny-Text_Input_Prediction)  
 
 ## 【MOOC】  
 
