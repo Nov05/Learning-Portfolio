@@ -112,11 +112,20 @@ Others
 # :mortar_board: Khan Academy
 
 #### :point_right: [【Computer Science】](https://www.khanacademy.org/computing/computer-science)  
+
 - [ ] [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)  
 - [ ] [Journey into cryptography](https://www.khanacademy.org/computing/computer-science/cryptography)  
 - [ ] [Journey into information theory](https://www.khanacademy.org/computing/computer-science/informationtheory)  
 - [ ] [How Computers Work](https://www.khanacademy.org/computing/computer-science/how-computers-work2)  
 - [ ] [Internet 101](https://www.khanacademy.org/computing/computer-science/internet-intro)  
+
+#### :point_right: [【Mathematics】](https://www.khanacademy.org/math)  
+
+- [ ] [Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)  
+- [ ] [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)  
+- [ ] [Calculus 1](https://www.khanacademy.org/math/calculus-1)  
+- [ ] [Calculus 2](https://www.khanacademy.org/math/calculus-2)  
+- [ ] [Math for Fun and Glory](https://www.khanacademy.org/math/math-for-fun-and-glory)  
 
 
 
