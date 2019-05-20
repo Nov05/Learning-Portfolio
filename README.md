@@ -6,6 +6,7 @@
 - [X] Cousera Data Science Capstone Project - Text Input Prediction ![Progress](http://progressed.io/bar/100)  
 [Version 2](https://github.com/Nov05/Shiny-Text_Input_Prediction-V2)  
 [Version 1](https://github.com/Nov05/Shiny-Text_Input_Prediction)  
+- [X] [Coursera Data Science Shiny App Chinese Cities](https://github.com/Nov05/Shiny-CN_Cities)  
 
 ## 【MOOC】  
 
