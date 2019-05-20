@@ -18,18 +18,18 @@ Machine Learning**
 
 # :mortar_board:openSAP
 
-- [X] [SAP Leonardo - Enabling the Intelligent Enterprise (leo1)]()  
-- [X] [Procurement Transformation with SAP Ariba and SAP S/4HANA (Repeat)(srm1-1)]()  
-- [X] [SAP Leonardo Design-Led Engagements Demystified (dleo1)]()  
-- [X] [SAP HANA Data Management Suite - Strategy Talk (hdms1)]()  
-- [X] [Analytics with SAP Cloud Platform (cp6)]()  
-- [X] [Analyzing Connected Data with SAP HANA Graph (hsgra1)]()  
-- [X] [SAP Business ByDesign Project-Based Services (byd5)]()  
-- [X] [Object-Oriented Programming in Java (java1)]()  
-- [X] [Digital Transformation Across the Extended Supply Chain (escm2)]()  
-- [X] [Transformation to Hybrid Landscapes (hybrid1)]()  
-- [X] [Next Steps in SAP HANA Cloud Platform (hanacloud2)]()  
-- [X] [Introduction to Software Development on SAP HANA (hana1)](https://open.sap.com/courses/hana1)  
+- [X] [SAP Leonardo - Enabling the Intelligent Enterprise (leo1)](https://open.sap.com/courses/leo1) (2 hours)  
+- [X] [Procurement Transformation with SAP Ariba and SAP S/4HANA (Repeat)(srm1-1)](https://open.sap.com/courses/srm1-1) (3 hours/week * 3 weeks)   
+- [X] [SAP Leonardo Design-Led Engagements Demystified (dleo1)](https://open.sap.com/courses/dleo1) (2 hours)  
+- [X] [SAP HANA Data Management Suite - Strategy Talk (hdms1)](https://open.sap.com/courses/hdms1) (1 hours)  
+- [X] [Analytics with SAP Cloud Platform (cp6)](https://open.sap.com/courses/cp6) (4 hours/week * 4 weeks)  
+- [X] [Analyzing Connected Data with SAP HANA Graph (hsgra1)](https://open.sap.com/courses/hsgra1) (4 hours)  
+- [X] [SAP Business ByDesign Project-Based Services (byd5)](https://open.sap.com/courses/byd5) (3 hours/week * 5 weeks)  
+- [X] [Object-Oriented Programming in Java (java1)](https://open.sap.com/courses/java1) (6 hours/weeks * 6 weeks)  
+- [X] [Digital Transformation Across the Extended Supply Chain (escm2)](https://open.sap.com/courses/escm2) (3 hours/week * 6 weeks)  
+- [X] [Transformation to Hybrid Landscapes (hybrid1)](https://open.sap.com/courses/hybrid1) (3 hours/week * 5 weeks)  
+- [X] [Next Steps in SAP HANA Cloud Platform (hanacloud2)](https://open.sap.com/courses/hanacloud2) (5 hours/week * 6 weeks)  
+- [X] [Introduction to Software Development on SAP HANA (hana1)](https://open.sap.com/courses/hana1) (4 hours/week * 6 weeks)  
 
 # :mortar_board:Udacity
 
