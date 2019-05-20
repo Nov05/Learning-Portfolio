@@ -22,7 +22,7 @@ Others
 
 # :mortar_board:openSAP
 
-[【openSAP Notes】](https://github.com/Nov05/openSAP)  
+[【Notes】](https://github.com/Nov05/openSAP)  
 
 - [X] [SAP Leonardo - Enabling the Intelligent Enterprise (leo1)](https://open.sap.com/courses/leo1) (2 hours)  
 - [X] [Procurement Transformation with SAP Ariba and SAP S/4HANA (Repeat)(srm1-1)](https://open.sap.com/courses/srm1-1) (3 hours/week * 3 weeks)   
@@ -37,11 +37,13 @@ Others
 - [X] [Next Steps in SAP HANA Cloud Platform (hanacloud2)](https://open.sap.com/courses/hanacloud2) (5 hours/week * 6 weeks)  
 - [X] [Introduction to Software Development on SAP HANA (hana1)](https://open.sap.com/courses/hana1) (4 hours/week * 6 weeks)  
 
+
 # :mortar_board:Udacity
 
 - [X] [PyTorch Scholarship Challenge](https://classroom.udacity.com/nanodegrees/nd188/dashboard/overview) (2 months, 120 hours)  
 - [X] [Introduction to Computer Science (February 2012)](https://classroom.udacity.com/courses/cs101-old) (22 Lessons)  
 - [X] [Intro to Artificial Intelligence (November 2011)](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271) (2 months, 80 hours)
+
 
 # :mortar_board:Coursera
 
@@ -68,22 +70,22 @@ Course 10. [Data Science Capstone](https://github.com/Nov05/Coursera-Data_Scienc
 
 # :mortar_board:DataCamp
 
-[【DataCamp Notes】](https://github.com/Nov05/DataCamp)  
+[【Notes】](https://github.com/Nov05/DataCamp)  
 
 #### :point_right:【Courses】  
 2019-05-17  
 - [X] [Working with Dates and Times in Python](https://www.datacamp.com/courses/working-with-dates-and-times-in-python) (4 hours, 14 Videos, 48 Exercises, 790 Participants)  
 - [ ] [Introduction to Seaborn](https://www.datacamp.com/courses/introduction-to-seaborn) (4 hours, 14 Videos, 44 Exercises, 375 Participants)  
 
-#### :point_right:[【Data Scientist with Python】](https://www.datacamp.com/tracks/data-scientist-with-python) ![Progress](http://progressed.io/bar/1)   
+#### :point_right:[【Data Scientist with Python】](https://www.datacamp.com/tracks/data-scientist-with-python) ![Progress](http://progressed.io/bar/5)   
 84 hours 22 Courses
 - [X] [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science) (4 hours, 11 Videos, 57 Exercises)  
-- [ ] [Intermediate Python for Data Science] (https://www.datacamp.com/courses/intermediate-python-for-data-science) (4 hours, 18 Videos, 87 Exercises)    
+- [ ] [Intermediate Python for Data Science] (https://www.datacamp.com/courses/intermediate-python-for-data-science) (4 hours, 18 Videos, 87 Exercises) ![Progress](http://progressed.io/bar/1)    
 
 
 # :mortar_board:Udemy
 
-[【Udemy Notes】](https://github.com/Nov05/Udemy) 
+[【Notes】](https://github.com/Nov05/Udemy) 
 
 #### :point_right:【SAP】
 
