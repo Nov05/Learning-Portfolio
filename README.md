@@ -7,7 +7,7 @@
 ## 【MOOC】  
 
 # :mortar_board:Coursera
-- [ ] [【Deep Learning Specialization】](https://www.coursera.org/specializations/deep-learning) [【Notes】](https://github.com/Nov05/Coursera-Deep_Learning_Specialization) (7 courses, 11 hours/weeks * 12 weeks)  ![Progress](http://progressed.io/bar/36)  
+- [ ] [【Deep Learning Specialization】](https://www.coursera.org/specializations/deep-learning) [【Notes】](https://github.com/Nov05/Coursera-Deep_Learning_Specialization) (7 courses, 11 hours/weeks * 13 weeks)  ![Progress](http://progressed.io/bar/36)  
 Precourse 1. AI For Everyone  
 Precourse 2. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning  
 Course 1. Neural Networks and Deep Learning  
