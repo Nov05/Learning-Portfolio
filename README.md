@@ -34,6 +34,15 @@ Course 3. Structuring Machine Learning Projects
 Course 4. Convolutional Neural Networks  
 Course 5. Sequence Models  
 - [X] [【Data Science Specialization】](https://www.coursera.org/specializations/jhu-data-science?) [【Notes】](https://github.com/Nov05/Coursera-Data_Science-Courses) (10 courses, 400 hours) ![Progress](http://progressed.io/bar/100)  
+Course 1. The Data Scientist’s Toolbox  
+Course 2. R Programming  
+Course 3. Getting and Cleaning Data  
+Course 4. Exploratory Data Analysis  
+Course 5. Reproducible Research  
+Course 6. Statistical Inference  
+Course 7. Regression Models  
+Course 8. Practical Machine Learning  
+Course 9. Developing Data Products
 Course 10. [Data Science Capstone](https://github.com/Nov05/Coursera-Data_Science-Capstone) [【Notes】](https://github.com/Nov05/Coursera-Data_Science-Capstone) 
 
 
