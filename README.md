@@ -20,7 +20,6 @@ Course 10. [Data Science Capstone](https://github.com/Nov05/Coursera-Data_Scienc
 
 
 # :mortar_board:DataCamp
-Go to DataCamp: https://www.datacamp.com/
  
 #### :point_right:【Courses】  
 2019-05-17  
@@ -31,8 +30,6 @@ Go to DataCamp: https://www.datacamp.com/
 84 hours 22 Courses
 
 # :mortar_board:Udemy
-
-Go to Udemy: https://www.udemy.com/
 
 #### :point_right:【SAP】
 
