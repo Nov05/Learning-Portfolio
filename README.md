@@ -2,9 +2,9 @@
 
 This is a portfolio repository.
 
-# :point_right:【Project】
+# 【Project】
 
-# :point_right:【MOOC】  
+# 【MOOC】  
 
 ## DataCamp
 Go to DataCamp https://www.datacamp.com/
