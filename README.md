@@ -16,6 +16,12 @@ Machine Learning**
 
 # 【MOOC】  
 
+# :morta_board:Udacity
+
+- [X] [PyTorch Scholarship Challenge](https://classroom.udacity.com/nanodegrees/nd188/dashboard/overview) (2 months, 120 hours)  
+- [X] [Introduction to Computer Science (February 2012)](https://classroom.udacity.com/courses/cs101-old) (22 Lessons)  
+- [X] [Intro to Artificial Intelligence (November 2011)](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271) (2 months, 80 hours)
+
 # :mortar_board:Coursera
 - [ ] [【Deep Learning Specialization】](https://www.coursera.org/specializations/deep-learning) [【Notes】](https://github.com/Nov05/Coursera-Deep_Learning_Specialization) (7 courses, 11 hours/weeks * 13 weeks)  ![Progress](http://progressed.io/bar/36)  
 Precourse 1. AI For Everyone  
