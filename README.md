@@ -2,6 +2,8 @@
 
 ## 【Project】
 
+- [X] [Udacity Pytorch Challenge](https://github.com/Nov05/Udacity-PyTorch_Challenge) (2 months, 120 hours)  
+
 ## 【MOOC】  
 
 # :mortar_board:DataCamp
