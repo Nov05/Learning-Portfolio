@@ -1,6 +1,6 @@
 # 【Nov05's Portfolio】
 
-## 【Project】
+# 【Project】
 
 - [X] [Udacity Pytorch Challenge](https://github.com/Nov05/Udacity-PyTorch_Challenge) (2 months, 120 hours) ![Progress](http://progressed.io/bar/100)  
 - [X] [Cousera Data Science Capstone Project - Text Input Prediction](https://github.com/Nov05/Coursera-Data_Science-Capstone) ![Progress](http://progressed.io/bar/100)  
@@ -10,7 +10,7 @@
 - [X] [Coursera Data Science Simple Shiny App US Census 2010](https://github.com/Nov05/Shiny-US_Cencus_2010)  
 - [X] [Coursera Data Scicence Simple Slidify Presentation Chinese Cities](https://github.com/Nov05/Slidify-CN_Cities)  
 
-## 【MOOC】  
+# 【MOOC】  
 
 # :mortar_board:Coursera
 - [ ] [【Deep Learning Specialization】](https://www.coursera.org/specializations/deep-learning) [【Notes】](https://github.com/Nov05/Coursera-Deep_Learning_Specialization) (7 courses, 11 hours/weeks * 13 weeks)  ![Progress](http://progressed.io/bar/36)  
