@@ -7,7 +7,7 @@
 ## 【MOOC】  
 
 # :mortar_board:Coursera
-- [ ] [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) [【Notes】](https://github.com/Nov05/Coursera-Deep_Learning_Specialization)
+- [ ] [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) [【Notes】](https://github.com/Nov05/Coursera-Deep_Learning_Specialization) (7 courses, 11 hours/weeks * 12 weeks) ![Progress](http://progressed.io/bar/36)  
 - [X] [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science?) (10 courses, 400 hours) ![Progress](http://progressed.io/bar/100)  
   10. [Data Science Capstone](https://github.com/Nov05/Coursera-Data_Science-Capstone) [【Notes】](https://github.com/Nov05/Coursera-Data_Science-Capstone) 
 
