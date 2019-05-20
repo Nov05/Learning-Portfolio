@@ -3,7 +3,7 @@
 ## 【Project】
 
 - [X] [Udacity Pytorch Challenge](https://github.com/Nov05/Udacity-PyTorch_Challenge) (2 months, 120 hours) ![Progress](http://progressed.io/bar/100)  
-- [X] Cousera Data Science Capstone Project - Text Input Prediction ![Progress](http://progressed.io/bar/100)  
+- [X] [Cousera Data Science Capstone Project - Text Input Prediction](https://github.com/Nov05/Coursera-Data_Science-Capstone) ![Progress](http://progressed.io/bar/100)  
 [Version 2](https://github.com/Nov05/Shiny-Text_Input_Prediction-V2)  
 [Version 1](https://github.com/Nov05/Shiny-Text_Input_Prediction)  
 - [X] [Coursera Data Science Shiny App Chinese Cities](https://github.com/Nov05/Shiny-CN_Cities)  
