@@ -18,6 +18,19 @@ Machine Learning**
 
 # :mortar_board:openSAP
 
+- [X] [SAP Leonardo - Enabling the Intelligent Enterprise (leo1)]()  
+- [X] [Procurement Transformation with SAP Ariba and SAP S/4HANA (Repeat)(srm1-1)]()  
+- [X] [SAP Leonardo Design-Led Engagements Demystified (dleo1)]()  
+- [X] [SAP HANA Data Management Suite - Strategy Talk (hdms1)]()  
+- [X] [Analytics with SAP Cloud Platform (cp6)]()  
+- [X] [Analyzing Connected Data with SAP HANA Graph (hsgra1)]()  
+- [X] [SAP Business ByDesign Project-Based Services (byd5)]()  
+- [X] [Object-Oriented Programming in Java (java1)]()  
+- [X] [Digital Transformation Across the Extended Supply Chain (escm2)]()  
+- [X] [Transformation to Hybrid Landscapes (hybrid1)]()  
+- [X] [Next Steps in SAP HANA Cloud Platform (hanacloud2)]()  
+- [X] [Introduction to Software Development on SAP HANA (hana1)](https://open.sap.com/courses/hana1)  
+
 # :mortar_board:Udacity
 
 - [X] [PyTorch Scholarship Challenge](https://classroom.udacity.com/nanodegrees/nd188/dashboard/overview) (2 months, 120 hours)  
