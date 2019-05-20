@@ -11,6 +11,14 @@ Others
 # 【Project】
 
 - [X] [Udacity Pytorch Challenge](https://github.com/Nov05/Udacity-PyTorch_Challenge) (2 months, 120 hours) ![Progress](http://progressed.io/bar/100)  
+[4.09-4.11 Training Neural Networks](https://github.com/Nov05/Udacity-PyTorch_Challenge/blob/master/Assignment/4.09-11_Part%203%20-%20Training%20Neural%20Networks%20(Exercises).ipynb)  
+[4.12-4.13 Classifying Fashion-MNIST](https://github.com/Nov05/Udacity-PyTorch_Challenge/blob/master/Assignment/4.12-13_Part%204%20-%20Fashion-MNIST%20(Exercises).ipynb)  
+[5.08-5.13 Multi-Layer Perceptron, Classifying MNIST Hand-Written Digits](https://github.com/Nov05/Udacity-PyTorch_Challenge/blob/master/Assignment/5.08-13_mnist_mlp_exercise.ipynb)  
+[5.36 CNN Classifying CIFAR-10 Images](https://github.com/Nov05/Udacity-PyTorch_Challenge/blob/master/Assignment/5.36_cifar10_cnn_exercise.ipynb)  
+[6.08 VGG19 Style Transfer](https://github.com/Nov05/Udacity-PyTorch_Challenge/blob/master/Assignment/6.08_Style_Transfer_Exercise.ipynb)  
+[7.16 Character-Level LSTM Generating Novel Chapter](https://github.com/Nov05/Udacity-PyTorch_Challenge/blob/master/Assignment/7.16_Character_Level_RNN_Exercise.ipynb)  
+[8.02 Sentiment Analysis with an RNN](https://github.com/Nov05/Udacity-PyTorch_Challenge/blob/master/Assignment/8.02_Sentiment_RNN_Exercise.ipynb)  
+[9 Final Project Transfer Learning Classifying Oxford 102 Flowers](https://github.com/Nov05/Google-Colaboratory/blob/master/densenet169v2.ipynb) (DenseNet169, DenseNet201, etc.)  
 - [X] [Cousera Data Science Capstone Project - Text Input Prediction](https://github.com/Nov05/Coursera-Data_Science-Capstone) ![Progress](http://progressed.io/bar/100)  
 [Version 2](https://github.com/Nov05/Shiny-Text_Input_Prediction-V2)  
 [Version 1](https://github.com/Nov05/Shiny-Text_Input_Prediction)  
