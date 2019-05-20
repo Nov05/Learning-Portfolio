@@ -47,25 +47,28 @@ Others
 
 # :mortar_board: Coursera
 
-- [ ] [【Deep Learning Specialization】](https://www.coursera.org/specializations/deep-learning) [【Notes】](https://github.com/Nov05/Coursera-Deep_Learning_Specialization) (7 courses, 11 hours/weeks * 13 weeks)  ![Progress](http://progressed.io/bar/36)  
-Precourse 1. AI For Everyone  
-Precourse 2. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning  
-Course 1. Neural Networks and Deep Learning  
-Course 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization  
-Course 3. Structuring Machine Learning Projects  
-Course 4. Convolutional Neural Networks  
-Course 5. Sequence Models  
-- [X] [【Data Science Specialization】](https://www.coursera.org/specializations/jhu-data-science?) [【Notes】](https://github.com/Nov05/Coursera-Data_Science-Courses) (10 courses, 400 hours) ![Progress](http://progressed.io/bar/100)  
-Course 1. The Data Scientist’s Toolbox  
-Course 2. R Programming  
-Course 3. Getting and Cleaning Data  
-Course 4. Exploratory Data Analysis  
-Course 5. Reproducible Research  
-Course 6. Statistical Inference  
-Course 7. Regression Models  
-Course 8. Practical Machine Learning  
-Course 9. Developing Data Products  
-Course 10. [Data Science Capstone](https://github.com/Nov05/Coursera-Data_Science-Capstone) [【Notes】](https://github.com/Nov05/Coursera-Data_Science-Capstone) 
+#### :point_right: [【Deep Learning Specialization】](https://www.coursera.org/specializations/deep-learning)  
+(7 courses, 11 hours/weeks * 13 weeks)  ![Progress](http://progressed.io/bar/36)  
+[【Notes】](https://github.com/Nov05/Coursera-Deep_Learning_Specialization)  
+- [X] Precourse 1. AI For Everyone  
+- [X] Precourse 2. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning  
+- [ ] Course 1. Neural Networks and Deep Learning  
+- [ ] Course 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization  
+- [ ] Course 3. Structuring Machine Learning Projects  
+- [ ] Course 4. Convolutional Neural Networks  
+- [ ] Course 5. Sequence Models 
+
+#### :point_right: [【Data Science Specialization】](https://www.coursera.org/specializations/jhu-data-science?) [【Notes】](https://github.com/Nov05/Coursera-Data_Science-Courses) (10 courses, 400 hours) ![Progress](http://progressed.io/bar/100)  
+- [X] Course 1. The Data Scientist’s Toolbox  
+- [X] Course 2. R Programming  
+- [X] Course 3. Getting and Cleaning Data  
+- [X] Course 4. Exploratory Data Analysis  
+- [X] Course 5. Reproducible Research  
+- [X] Course 6. Statistical Inference  
+- [X] Course 7. Regression Models  
+- [X] Course 8. Practical Machine Learning  
+- [X] Course 9. Developing Data Products  
+- [X] Course 10. [Data Science Capstone](https://github.com/Nov05/Coursera-Data_Science-Capstone) [【Notes】](https://github.com/Nov05/Coursera-Data_Science-Capstone) 
 
 
 # :mortar_board: DataCamp
