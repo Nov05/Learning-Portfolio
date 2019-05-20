@@ -1,7 +1,7 @@
 # 【Nov05's Portfolio】
 
 **SAP 【172 hours】  
-Data Science 【】  
+Data Science 【404 hours】  
 Machine Learning 【200 hours】**
 
 # 【Project】
