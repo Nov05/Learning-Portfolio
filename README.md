@@ -7,6 +7,7 @@
 [Version 2](https://github.com/Nov05/Shiny-Text_Input_Prediction-V2)  
 [Version 1](https://github.com/Nov05/Shiny-Text_Input_Prediction)  
 - [X] [Coursera Data Science Shiny App Chinese Cities](https://github.com/Nov05/Shiny-CN_Cities)  
+- [X] [Coursera DAta Scicence Slidify Representation Chinese Cities](https://github.com/Nov05/Slidify-CN_Cities)  
 
 ## 【MOOC】  
 
