@@ -74,9 +74,9 @@ Others
 [【Notes】](https://github.com/Nov05/DataCamp)  
 
 #### :point_right:【Courses】  
- 
-- [X] [Working with Dates and Times in Python](https://www.datacamp.com/courses/working-with-dates-and-times-in-python) (4 hours, 14 Videos, 48 Exercises, 790 Participants) 2019-05-17  
+
 - [ ] [Introduction to Seaborn](https://www.datacamp.com/courses/introduction-to-seaborn) (4 hours, 14 Videos, 44 Exercises, 375 Participants) ![Progress](http://progressed.io/bar/25)  
+- [X] [Working with Dates and Times in Python](https://www.datacamp.com/courses/working-with-dates-and-times-in-python) (4 hours, 14 Videos, 48 Exercises, 790 Participants) 2019-05-17  
 
 #### :point_right:[【Data Scientist with Python】](https://www.datacamp.com/tracks/data-scientist-with-python) (22 courses, 84 hours) ![Progress](http://progressed.io/bar/5)   
  
