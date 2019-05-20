@@ -18,7 +18,7 @@ Others
 [6.08 VGG19 Style Transfer](https://github.com/Nov05/Udacity-PyTorch_Challenge/blob/master/Assignment/6.08_Style_Transfer_Exercise.ipynb)  
 [7.16 Character-Level LSTM Generating Novel Chapter](https://github.com/Nov05/Udacity-PyTorch_Challenge/blob/master/Assignment/7.16_Character_Level_RNN_Exercise.ipynb)  
 [8.02 Sentiment Analysis with an RNN](https://github.com/Nov05/Udacity-PyTorch_Challenge/blob/master/Assignment/8.02_Sentiment_RNN_Exercise.ipynb)  
-[9 Final Project Transfer Learning Classifying Oxford 102 Flowers](https://github.com/Nov05/Google-Colaboratory/blob/master/densenet169v2.ipynb) (DenseNet169, DenseNet201, etc.)  
+[9 Final Project, Transfer Learning Classifying Oxford 102 Flowers](https://github.com/Nov05/Google-Colaboratory/blob/master/densenet169v2.ipynb) (DenseNet169, DenseNet201, etc.)  
 - [X] [Cousera Data Science Capstone Project - Text Input Prediction](https://github.com/Nov05/Coursera-Data_Science-Capstone) ![Progress](http://progressed.io/bar/100)  
 [Version 2](https://github.com/Nov05/Shiny-Text_Input_Prediction-V2)  
 [Version 1](https://github.com/Nov05/Shiny-Text_Input_Prediction)  
