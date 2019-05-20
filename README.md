@@ -19,7 +19,7 @@ Course 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization 
 Course 3. Structuring Machine Learning Projects  
 Course 4. Convolutional Neural Networks  
 Course 5. Sequence Models  
-- [X] [【Data Science Specialization】](https://www.coursera.org/specializations/jhu-data-science?) (10 courses, 400 hours) ![Progress](http://progressed.io/bar/100)  
+- [X] [【Data Science Specialization】](https://www.coursera.org/specializations/jhu-data-science?) [【Notes】](https://github.com/Nov05/Coursera-Data_Science-Courses) (10 courses, 400 hours) ![Progress](http://progressed.io/bar/100)  
 Course 10. [Data Science Capstone](https://github.com/Nov05/Coursera-Data_Science-Capstone) [【Notes】](https://github.com/Nov05/Coursera-Data_Science-Capstone) 
 
 
