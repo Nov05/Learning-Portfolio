@@ -42,7 +42,7 @@ Course 5. Reproducible Research
 Course 6. Statistical Inference  
 Course 7. Regression Models  
 Course 8. Practical Machine Learning  
-Course 9. Developing Data Products
+Course 9. Developing Data Products  
 Course 10. [Data Science Capstone](https://github.com/Nov05/Coursera-Data_Science-Capstone) [【Notes】](https://github.com/Nov05/Coursera-Data_Science-Capstone) 
 
 
