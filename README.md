@@ -1,8 +1,8 @@
 # 【Nov05's Learning Portfolio】
 
-**SAP 【Completed 172 hours】  
-Data Science 【Completed 404 hours】  
-Machine Learning 【Completed 200 hours】**
+**SAP 【172 hours committed】  
+Data Science 【404 hours committed】  
+Machine Learning 【200 hours committed】**
 
 Computer Science  
 Mathematics  
