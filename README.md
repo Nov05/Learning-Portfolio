@@ -4,6 +4,10 @@
 Data Science 【404 hours】  
 Machine Learning 【200 hours】**
 
+Computer Science
+Mathematics
+Others
+
 # 【Project】
 
 - [X] [Udacity Pytorch Challenge](https://github.com/Nov05/Udacity-PyTorch_Challenge) (2 months, 120 hours) ![Progress](http://progressed.io/bar/100)  
@@ -17,7 +21,9 @@ Machine Learning 【200 hours】**
 # 【MOOC】  
 
 # :mortar_board:openSAP
-[【Notes】](https://github.com/Nov05/openSAP)  
+
+[【openSAP Notes】](https://github.com/Nov05/openSAP)  
+
 - [X] [SAP Leonardo - Enabling the Intelligent Enterprise (leo1)](https://open.sap.com/courses/leo1) (2 hours)  
 - [X] [Procurement Transformation with SAP Ariba and SAP S/4HANA (Repeat)(srm1-1)](https://open.sap.com/courses/srm1-1) (3 hours/week * 3 weeks)   
 - [X] [SAP Leonardo Design-Led Engagements Demystified (dleo1)](https://open.sap.com/courses/dleo1) (2 hours)  
@@ -38,6 +44,7 @@ Machine Learning 【200 hours】**
 - [X] [Intro to Artificial Intelligence (November 2011)](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271) (2 months, 80 hours)
 
 # :mortar_board:Coursera
+
 - [ ] [【Deep Learning Specialization】](https://www.coursera.org/specializations/deep-learning) [【Notes】](https://github.com/Nov05/Coursera-Deep_Learning_Specialization) (7 courses, 11 hours/weeks * 13 weeks)  ![Progress](http://progressed.io/bar/36)  
 Precourse 1. AI For Everyone  
 Precourse 2. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning  
@@ -60,7 +67,9 @@ Course 10. [Data Science Capstone](https://github.com/Nov05/Coursera-Data_Scienc
 
 
 # :mortar_board:DataCamp
- 
+
+[【DataCamp Notes】](https://github.com/Nov05/DataCamp)  
+
 #### :point_right:【Courses】  
 2019-05-17  
 - [X] [Working with Dates and Times in Python](https://www.datacamp.com/courses/working-with-dates-and-times-in-python) (4 hours, 14 Videos, 48 Exercises, 790 Participants)  
@@ -70,6 +79,8 @@ Course 10. [Data Science Capstone](https://github.com/Nov05/Coursera-Data_Scienc
 84 hours 22 Courses
 
 # :mortar_board:Udemy
+
+[【Udemy Notes】](https://github.com/Nov05/Udemy) 
 
 #### :point_right:【SAP】
 
