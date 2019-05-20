@@ -80,7 +80,7 @@ Course 10. [Data Science Capstone](https://github.com/Nov05/Coursera-Data_Scienc
 #### :point_right:[【Data Scientist with Python】](https://www.datacamp.com/tracks/data-scientist-with-python) ![Progress](http://progressed.io/bar/5)   
 84 hours 22 Courses
 - [X] [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science) (4 hours, 11 Videos, 57 Exercises)  
-- [ ] [Intermediate Python for Data Science] (https://www.datacamp.com/courses/intermediate-python-for-data-science) (4 hours, 18 Videos, 87 Exercises) ![Progress](http://progressed.io/bar/1)    
+- [ ] [Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science) (4 hours, 18 Videos, 87 Exercises) ![Progress](http://progressed.io/bar/1)    
 
 
 # :mortar_board:Udemy
