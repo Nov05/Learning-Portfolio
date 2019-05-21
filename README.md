@@ -113,7 +113,8 @@ Others
 #### :point_right:【Data Science】
 
 2019-05-20  
-- [ ] [Tableau 2019, 2018 & 10: Certified Associate certification](https://www.udemy.com/course/tableau-2018-tableau-10-qualified-associate-certification/) (131 lectures, 11.5 hours)    
+- [ ] [Tableau 2019, 2018 & 10: Certified Associate certification](https://www.udemy.com/course/tableau-2018-tableau-10-qualified-associate-certification/) (131 lectures, 11.5 hours)   
+
 2019-05-19  
 - [ ] [The Data Science Course 2019: Complete Data Science Bootcamp](https://www.udemy.com/share/100YASBkIec1tQR3o=/) (436 lectures, 26 hours)  
 - [ ] [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/share/100YFcBkIec1tQR3o=/) (149 lectures, 22.5 hours)  
