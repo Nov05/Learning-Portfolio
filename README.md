@@ -112,10 +112,22 @@ Others
 
 #### :point_right:【Data Science】
 
+2019-05-20  
+- [ ] [Tableau 2019, 2018 & 10: Certified Associate certification](https://www.udemy.com/course/tableau-2018-tableau-10-qualified-associate-certification/) (131 lectures, 11.5 hours)  
 2019-05-19  
 - [ ] [The Data Science Course 2019: Complete Data Science Bootcamp](https://www.udemy.com/share/100YASBkIec1tQR3o=/) (436 lectures, 26 hours)  
 - [ ] [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/share/100YFcBkIec1tQR3o=/) (149 lectures, 22.5 hours)  
 - [ ] [Data Science Interview Preparation - Career Guide](https://www.udemy.com/share/101aL6BkIec1tQR3o=/) (23 lectures, 4 hours)  
+
+#### :point_right:【Machine Learning】
+
+2019-05-20  
+- [ ] [Deployment of Machine Learning Models](https://www.udemy.com/deployment-of-machine-learning-models/) (121 lectures, 8 hours)  
+
+#### :point_right:【Others】
+
+- [ ] [AWS Certified Solutions Architect - Associate 2019](https://www.udemy.com/aws-certified-solutions-architect-associate/) (211 lectures, 32.5 hours)  
+- [ ] [Learn Ethical Hacking From Scratch](https://www.udemy.com/learn-ethical-hacking-from-scratch/) (140 lectures, 14.5 hours)  
 
 # :mortar_board: Khan Academy
 
