@@ -1,7 +1,7 @@
 # 【Nov05's Learning Portfolio】
 
 **SAP 【172 hours committed】  
-Data Science 【412 hours committed】  
+Data Science 【416 hours committed】  
 Machine Learning 【200 hours committed】**
 
 Computer Science  
@@ -89,8 +89,9 @@ Others
 #### :point_right:[【Data Scientist with Python】](https://www.datacamp.com/tracks/data-scientist-with-python) (22 courses, 84 hours) ![Progress](http://progressed.io/bar/5)   
  
 - [X] [1. Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science) (4 hours, 11 Videos, 57 Exercises)  
-- [ ] [2. Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science) (4 hours, 18 Videos, 87 Exercises)    
-
+- [X] [2. Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science) (4 hours, 18 Videos, 87 Exercises)  
+- [ ] [3. Python Data Science Toolbox (Part 1)](https://www.datacamp.com/courses/python-data-science-toolbox-part-1) (3 hours
+12 Videos, 46 Exercises)  
 
 # :mortar_board: Udemy
 
