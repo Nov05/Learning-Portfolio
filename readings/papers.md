@@ -6,4 +6,4 @@ The advent of Generative Adversarial Networks (GANs) has brought about completel
 Subjects:	Computer Vision and Pattern Recognition (cs.CV)  
 Cite as:	arXiv:1903.06836 [cs.CV]  
 (or arXiv:1903.06836v1 [cs.CV] for this version)  
-https://arxiv.org/abs/1903.06836 (GitHub backup)
+https://arxiv.org/abs/1903.06836 [【GitHub backup】](https://github.com/Nov05/Learning-Portfolio/blob/master/papers/1903.06836.pdf)
