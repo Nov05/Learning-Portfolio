@@ -1,5 +1,5 @@
   
-## https://github.com/Nov05/deep-learning-with-python-notebooks
+## Deep Learning with Python Notebooks
 2019-07-22  
 https://github.com/fchollet/deep-learning-with-python-notebooks/blob/master/README.md  
   
