@@ -1,5 +1,5 @@
 # 【Nov05's Learning Portfolio】
-
+![Progress](http://progressed.io/bar/71) 
 **SAP 【172 hours committed】  
 Data Science 【416 hours committed】  
 Machine Learning 【200 hours committed】**
