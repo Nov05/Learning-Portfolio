@@ -1,6 +1,6 @@
-# 【Nov05's Learning Portfolio】
+# 【Nov05's Part Time Learning Portfolio】
 
-**SAP 【172 hours committed】  
+**SAP 【172 hours committed】    
 Data Science 【421 hours committed】  
 Machine Learning 【200 hours committed】**
 
