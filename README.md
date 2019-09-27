@@ -1,7 +1,7 @@
 # 【Nov05's Learning Portfolio】
 
 **SAP 【172 hours committed】  
-Data Science 【416 hours committed】  
+Data Science 【421 hours committed】  
 Machine Learning 【200 hours committed】**
 
 Computer Science  
@@ -84,10 +84,11 @@ Others
 
 #### :point_right:【Courses】  
 
+- [X] [Advanced NLP with spaCy](https://www.datacamp.com/courses/advanced-nlp-with-spacy) (5 hours, 15 Videos, 55 Exercises, 4,719 Participants) 2019-09-19     
 - [X] [Introduction to Seaborn](https://www.datacamp.com/courses/introduction-to-seaborn) (4 hours, 14 Videos, 44 Exercises, 375 Participants) 2019-05-20  
 - [X] [Working with Dates and Times in Python](https://www.datacamp.com/courses/working-with-dates-and-times-in-python) (4 hours, 14 Videos, 48 Exercises, 790 Participants) 2019-05-17  
 
-#### :point_right:[【Data Scientist with Python】](https://www.datacamp.com/tracks/data-scientist-with-python) (22 courses, 84 hours) ![Progress](http://progressed.io/bar/9)   
+#### :point_right:[【Data Scientist with Python】](https://www.datacamp.com/tracks/data-scientist-with-python) (22 courses, 84 hours) ![Progress](https://progress-bar.dev/9/)    
  
 - [X] [1. Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science) (4 hours, 11 Videos, 57 Exercises)  
 - [X] [2. Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science) (4 hours, 18 Videos, 87 Exercises) 2019-05-28  
