@@ -1,6 +1,6 @@
 
 # Cloud AI with SAP HANA and Amazon SageMaker   
-https://www.codeproject.com/Articles/5164081/Cloud-AI-with-SAP-HANA-and-Amazon-SageMaker
+https://www.codeproject.com/Articles/5164081/Cloud-AI-with-SAP-HANA-and-Amazon-SageMaker      
 Ryan Peden 31 Aug 2019  
 
 【Note】    
