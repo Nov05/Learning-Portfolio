@@ -255,7 +255,7 @@ You are using pip version 10.0.1, however version 19.2.3 is available.
 You should consider upgrading via the 'pip install --upgrade pip' command.
 ```
 
-# Connect to HANA
+### Connect to HANA Instance
 
 On Windows, you can find your HOSTS file in `C:\Windows\System32\drivers\etc\HOSTS`. On Linux and MacOS, you can find it at `/etc/hosts`. On whatever OS you're using, you'll need administrator or root privileges to edit the file. Once you've opened your HOSTS file, add the following line:    
 ```
