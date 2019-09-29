@@ -1,11 +1,12 @@
 
-# Cloud AI with SAP HANA and Amazon SageMaker  
-Ryan Peden 31 Aug 2019   
+# Cloud AI with SAP HANA and Amazon SageMaker   
 https://www.codeproject.com/Articles/5164081/Cloud-AI-with-SAP-HANA-and-Amazon-SageMaker
+Ryan Peden 31 Aug 2019  
 
 【Note】    
 Check the hana client version at https://tools.hana.ondemand.com/#hanatools     
-e.g. When the ariticle was written, `hanaclient-2.4.151-linux-x64.tar.gz` was available. However when I was trying to install HANA client, only `2.4.155` was available.   
+e.g. When the ariticle was written, `hanaclient-2.4.151-linux-x64.tar.gz` was available.    
+However when I was trying to install HANA client, only `2.4.155` was available.   
 
 ### Code Block
 
