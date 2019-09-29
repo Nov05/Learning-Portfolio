@@ -5,7 +5,8 @@ Ryan Peden 31 Aug 2019
 
 【Note】    
 Check the hana client version at https://tools.hana.ondemand.com/#hanatools     
-e.g. When the ariticle was written, `hanaclient-2.4.151-linux-x64.tar.gz` was available.    
+e.g.    
+When the post was written, `hanaclient-2.4.151-linux-x64.tar.gz` was available.    
 However when I was trying to install HANA client, only `2.4.155` was available.   
 
 <img src="https://github.com/Nov05/Learning-Portfolio/blob/master/logs/images/2019-09-29%2009_32_33-Cloud%20AI%20with%20SAP%20HANA%20and%20Amazon%20SageMaker%20-%20CodeProject.png?raw=true" width=500>
