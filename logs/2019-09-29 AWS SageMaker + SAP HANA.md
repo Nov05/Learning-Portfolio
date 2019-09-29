@@ -10,8 +10,7 @@ https://www.codeproject.com/Competitions/1083/Cloud-AI-Challenge-with-SAP-HANA-a
 
 
 【Note】    
-Check the hana client version at https://tools.hana.ondemand.com/#hanatools     
-e.g.    
+Check the hana client version at https://tools.hana.ondemand.com/#hanatools      
 When the post was written, `hanaclient-2.4.151-linux-x64.tar.gz` was available.    
 However when I was trying to install HANA client, only `2.4.155` was available.   
 
