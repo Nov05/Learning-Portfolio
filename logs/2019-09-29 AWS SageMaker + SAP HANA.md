@@ -255,3 +255,14 @@ You are using pip version 10.0.1, however version 19.2.3 is available.
 You should consider upgrading via the 'pip install --upgrade pip' command.
 ```
 
+# Connect to HANA
+
+On Windows, you can find your HOSTS file in `C:\Windows\System32\drivers\etc\HOSTS`. On Linux and MacOS, you can find it at `/etc/hosts`. On whatever OS you're using, you'll need administrator or root privileges to edit the file. Once you've opened your HOSTS file, add the following line:    
+```
+54.198.64.162 hxehost
+```
+To connect to our read-only HANA instance, open a web browser and navigate to `https://hxehost:53075`. Your browser will probably issue a security warning, because HANA is using a self-signed TLS certificate. Normally, when you get an alert like this, you'll want to run as fast as you can in the other direction. At the login prompt, use the following credentials:
+```
+User name: CONTEST_USER
+Password: CodeProject2019
+```
