@@ -266,3 +266,9 @@ To connect to our read-only HANA instance, open a web browser and navigate to `h
 User name: CONTEST_USER
 Password: CodeProject2019
 ```
+
+<img src="https://github.com/Nov05/Learning-Portfolio/blob/master/logs/images/2019-09-29%2010_42_45-SAP%20Web%20IDE%20for%20SAP%20HANA.png?raw=true" width=400>
+
+<img src="https://github.com/Nov05/Learning-Portfolio/blob/master/logs/images/2019-09-29%2010_46_21-Microsoft%20Edge.png?raw=true">  
+
+<img src="https://github.com/Nov05/Learning-Portfolio/blob/master/logs/images/2019-09-29%2011_07_43-Enter%20your%20Contest%20Code.png?raw=true">   
