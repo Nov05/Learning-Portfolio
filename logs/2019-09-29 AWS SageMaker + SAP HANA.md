@@ -3,6 +3,8 @@
 https://www.codeproject.com/Articles/5164081/Cloud-AI-with-SAP-HANA-and-Amazon-SageMaker      
 Ryan Peden 31 Aug 2019  
 
+<img src="https://github.com/Nov05/Learning-Portfolio/blob/master/logs/images/Contest_Page.png?raw=true">
+
 【Note】    
 Check the hana client version at https://tools.hana.ondemand.com/#hanatools     
 e.g.    
