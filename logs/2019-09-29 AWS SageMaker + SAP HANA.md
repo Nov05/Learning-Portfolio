@@ -148,7 +148,7 @@ source activate tensorflow_p36
 pip install /home/ec2-user/SageMaker/sap/hdbclient/hdbcli-*.tar.gz
 ```
 
-### Logs
+### Log
 
 ```
 sh-4.2$ mkdir -p ~/SageMaker/sap/hdbclient
@@ -213,3 +213,40 @@ Successfully installed hdbcli-2.4.155
 You are using pip version 10.0.1, however version 19.2.3 is available.
 You should consider upgrading via the 'pip install --upgrade pip' command.
 ```
+
+### Code block
+
+```
+source activate tensorflow_p36 
+pip install /home/ec2-user/SageMaker/sap/hdbclient/hana_ml-*.tar.gz
+```
+
+### Log
+
+```
+(tensorflow_p36) sh-4.2$ source activate tensorflow_p36 
+(tensorflow_p36) sh-4.2$ pip install /home/ec2-user/SageMaker/sap/hdbclient/hana_ml-*.tar.gz
+Processing ./SageMaker/sap/hdbclient/hana_ml-1.0.7.tar.gz
+Requirement already satisfied: hdbcli in ./anaconda3/envs/tensorflow_p36/lib/python3.6/site-packages (from hana-ml==1.0.7) (2.4.155)
+Requirement already satisfied: numpy in ./anaconda3/envs/tensorflow_p36/lib/python3.6/site-packages (from hana-ml==1.0.7) (1.16.4)
+Requirement already satisfied: pandas in ./anaconda3/envs/tensorflow_p36/lib/python3.6/site-packages (from hana-ml==1.0.7) (0.24.2)
+Collecting pydot (from hana-ml==1.0.7)
+  Downloading https://files.pythonhosted.org/packages/33/d1/b1479a770f66d962f545c2101630ce1d5592d90cb4f083d38862e93d16d2/pydot-1.4.1-py2.py3-none-any.whl
+Requirement already satisfied: matplotlib in ./anaconda3/envs/tensorflow_p36/lib/python3.6/site-packages (from hana-ml==1.0.7) (3.0.3)
+Requirement already satisfied: pytz>=2011k in ./anaconda3/envs/tensorflow_p36/lib/python3.6/site-packages (from pandas->hana-ml==1.0.7) (2018.4)
+Requirement already satisfied: python-dateutil>=2.5.0 in ./anaconda3/envs/tensorflow_p36/lib/python3.6/site-packages (from pandas->hana-ml==1.0.7) (2.7.3)
+Requirement already satisfied: pyparsing>=2.1.4 in ./anaconda3/envs/tensorflow_p36/lib/python3.6/site-packages (from pydot->hana-ml==1.0.7) (2.2.0)
+Requirement already satisfied: cycler>=0.10 in ./anaconda3/envs/tensorflow_p36/lib/python3.6/site-packages (from matplotlib->hana-ml==1.0.7) (0.10.0)
+Requirement already satisfied: kiwisolver>=1.0.1 in ./anaconda3/envs/tensorflow_p36/lib/python3.6/site-packages (from matplotlib->hana-ml==1.0.7) (1.0.1)
+Requirement already satisfied: six>=1.5 in ./anaconda3/envs/tensorflow_p36/lib/python3.6/site-packages (from python-dateutil>=2.5.0->pandas->hana-ml==1.0.7) (1.11.0)
+Requirement already satisfied: setuptools in ./anaconda3/envs/tensorflow_p36/lib/python3.6/site-packages (from kiwisolver>=1.0.1->matplotlib->hana-ml==1.0.7) (41.0.1)
+Building wheels for collected packages: hana-ml
+  Running setup.py bdist_wheel for hana-ml ... done
+  Stored in directory: /home/ec2-user/.cache/pip/wheels/ba/15/f1/18396eda5df904b63b67e889eb42a7b91c1a27069a65e2e921
+Successfully built hana-ml
+Installing collected packages: pydot, hana-ml
+Successfully installed hana-ml-1.0.7 pydot-1.4.1
+You are using pip version 10.0.1, however version 19.2.3 is available.
+You should consider upgrading via the 'pip install --upgrade pip' command.
+```
+
