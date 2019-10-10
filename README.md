@@ -10,7 +10,7 @@ Others
 
 # 【Project】
 
-- [ ] [Udacity Secure and Private AI Challenge](https://github.com/Nov05/Udacity-Secure-and-Private-AI-Challenge) (3 months, 120 hours) 1/7 ![Progress](http://progressed.io/bar/14)  
+- [ ] [Udacity Secure and Private AI Challenge](https://github.com/Nov05/Udacity-Secure-and-Private-AI-Challenge) (3 months, 120 hours) 1/7 ![Progress](https://progress-bar.dev/14/)  
 - [X] [Udacity Pytorch Challenge](https://github.com/Nov05/Udacity-PyTorch_Challenge) (2 months, 120 hours) ![Progress](http://progressed.io/bar/100)  
 [4.09-4.11 Training Neural Networks](https://github.com/Nov05/Udacity-PyTorch_Challenge/blob/master/Assignment/4.09-11_Part%203%20-%20Training%20Neural%20Networks%20(Exercises).ipynb)  
 [4.12-4.13 Classifying Fashion-MNIST](https://github.com/Nov05/Udacity-PyTorch_Challenge/blob/master/Assignment/4.12-13_Part%204%20-%20Fashion-MNIST%20(Exercises).ipynb)  
