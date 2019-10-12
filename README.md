@@ -84,7 +84,7 @@ Others
 
 #### :point_right:【Courses】  
 
-- [X] [Advanced NLP with spaCy](https://www.datacamp.com/courses/advanced-nlp-with-spacy) (5 hours, 15 Videos, 55 Exercises, 4,719 Participants) 2019-09-19     
+- [X] [Advanced NLP with spaCy](https://www.datacamp.com/courses/advanced-nlp-with-spacy) (5 hours, 15 Videos, 55 Exercises, 4,719 Participants) 2019-09-19 [[Colab Notebook]](https://colab.research.google.com/drive/1YJG-UpClTbaWJ9FBDXZi5shNbkDDRFI_)        
 - [X] [Introduction to Seaborn](https://www.datacamp.com/courses/introduction-to-seaborn) (4 hours, 14 Videos, 44 Exercises, 375 Participants) 2019-05-20  
 - [X] [Working with Dates and Times in Python](https://www.datacamp.com/courses/working-with-dates-and-times-in-python) (4 hours, 14 Videos, 48 Exercises, 790 Participants) 2019-05-17  
 
