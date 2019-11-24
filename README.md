@@ -1,6 +1,6 @@
 # 【Nov05's Part Time Learning Portfolio】
 
-**SAP 【172 hours committed】    
+**SAP 【180 hours committed】    
 Data Science 【421 hours committed】  
 Machine Learning 【200 hours committed】**
 
@@ -11,7 +11,7 @@ Others
 # 【Project】
 
 - [ ] [Udacity Secure and Private AI Challenge](https://github.com/Nov05/Udacity-Secure-and-Private-AI-Challenge) (3 months, 120 hours) 1/7 █▓░░░░░░░░░░ 14%  
-- [X] [Udacity Pytorch Challenge](https://github.com/Nov05/Udacity-PyTorch_Challenge) (2 months, 120 hours) ![Progress](http://progressed.io/bar/100)  
+- [X] [Udacity Pytorch Challenge](https://github.com/Nov05/Udacity-PyTorch_Challenge) (2 months, 120 hours) ██████████ 100%    
 [4.09-4.11 Training Neural Networks](https://github.com/Nov05/Udacity-PyTorch_Challenge/blob/master/Assignment/4.09-11_Part%203%20-%20Training%20Neural%20Networks%20(Exercises).ipynb)  
 [4.12-4.13 Classifying Fashion-MNIST](https://github.com/Nov05/Udacity-PyTorch_Challenge/blob/master/Assignment/4.12-13_Part%204%20-%20Fashion-MNIST%20(Exercises).ipynb)  
 [5.08-5.13 Multi-Layer Perceptron, Classifying MNIST Hand-Written Digits](https://github.com/Nov05/Udacity-PyTorch_Challenge/blob/master/Assignment/5.08-13_mnist_mlp_exercise.ipynb)  
@@ -20,12 +20,12 @@ Others
 [7.16 Character-Level LSTM Generating Novel Chapter](https://github.com/Nov05/Udacity-PyTorch_Challenge/blob/master/Assignment/7.16_Character_Level_RNN_Exercise.ipynb)  
 [8.02 Sentiment Analysis with an RNN](https://github.com/Nov05/Udacity-PyTorch_Challenge/blob/master/Assignment/8.02_Sentiment_RNN_Exercise.ipynb)  
 [9 Final Project, Transfer Learning Classifying Oxford 102 Flowers](https://github.com/Nov05/Google-Colaboratory/blob/master/densenet169v2.ipynb) (DenseNet169, DenseNet201, etc.)  
-- [X] [Cousera Data Science Capstone Project - Text Input Prediction](https://github.com/Nov05/Coursera-Data_Science-Capstone) ![Progress](http://progressed.io/bar/100)  
+- [X] [Cousera Data Science Capstone Project - Text Input Prediction](https://github.com/Nov05/Coursera-Data_Science-Capstone) ██████████ 100%  
 [Version 1](https://github.com/Nov05/Shiny-Text_Input_Prediction)  
 [Version 2](https://github.com/Nov05/Shiny-Text_Input_Prediction-V2)  
-- [X] [Coursera Data Science Simple Shiny App Chinese Cities](https://github.com/Nov05/Shiny-CN_Cities) ![Progress](http://progressed.io/bar/100)  
-- [X] [Coursera Data Science Simple Shiny App US Census 2010](https://github.com/Nov05/Shiny-US_Cencus_2010) ![Progress](http://progressed.io/bar/100)  
-- [X] [Coursera Data Scicence Simple Slidify Presentation Chinese Cities](https://github.com/Nov05/Slidify-CN_Cities) ![Progress](http://progressed.io/bar/100)  
+- [X] [Coursera Data Science Simple Shiny App Chinese Cities](https://github.com/Nov05/Shiny-CN_Cities) ██████████ 100%    
+- [X] [Coursera Data Science Simple Shiny App US Census 2010](https://github.com/Nov05/Shiny-US_Cencus_2010)██████████ 100%  
+- [X] [Coursera Data Scicence Simple Slidify Presentation Chinese Cities](https://github.com/Nov05/Slidify-CN_Cities)██████████ 100%  
 
 # 【MOOC】  
 
@@ -33,6 +33,7 @@ Others
 
 [【Notes】](https://github.com/Nov05/openSAP)  
 
+- [X] [Introduction to SUSE Linux Enterprise Server (SLES)](https://open.sap.com/courses/suse1-pc) (2 hours/week * 4 weeks) 2019-11-19  
 - [X] [SAP Leonardo - Enabling the Intelligent Enterprise (leo1)](https://open.sap.com/courses/leo1) (2 hours)  
 - [X] [Procurement Transformation with SAP Ariba and SAP S/4HANA (Repeat)(srm1-1)](https://open.sap.com/courses/srm1-1) (3 hours/week * 3 weeks)   
 - [X] [SAP Leonardo Design-Led Engagements Demystified (dleo1)](https://open.sap.com/courses/dleo1) (2 hours)  
@@ -56,7 +57,8 @@ Others
 
 # :mortar_board: Coursera
 
-#### :point_right: [【Deep Learning Specialization】](https://www.coursera.org/specializations/deep-learning) [【Notes】](https://github.com/Nov05/Coursera-Deep_Learning_Specialization) (7 courses, 11 hours/weeks * 13 weeks) ![Progress](http://progressed.io/bar/36)    
+#### :point_right: [【Deep Learning Specialization】](https://www.coursera.org/specializations/deep-learning) [【Notes】](https://github.com/Nov05/Coursera-Deep_Learning_Specialization) (7 courses, 11 hours/weeks * 13 weeks) ████░░░░░░░░ 36%  
+
 - [X] Precourse 1. AI For Everyone  
 - [X] Precourse 2. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning  
 - [ ] 1. Neural Networks and Deep Learning  
@@ -65,7 +67,8 @@ Others
 - [ ] 4. Convolutional Neural Networks  
 - [ ] 5. Sequence Models 
 
-#### :point_right: [【Data Science Specialization】](https://www.coursera.org/specializations/jhu-data-science?) [【Notes】](https://github.com/Nov05/Coursera-Data_Science-Courses) (10 courses, 400 hours) ![Progress](http://progressed.io/bar/100)  
+#### :point_right: [【Data Science Specialization】](https://www.coursera.org/specializations/jhu-data-science?) [【Notes】](https://github.com/Nov05/Coursera-Data_Science-Courses) (10 courses, 400 hours) ██████████ 100%  
+
 - [X] 1. The Data Scientist’s Toolbox  
 - [X] 2. R Programming  
 - [X] 3. Getting and Cleaning Data  
@@ -105,7 +108,7 @@ Others
 - [ ] [SAP HANA Implementation, Modeling and Reporting Course](https://www.udemy.com/share/1016m0BkIec1tQR3o=/) (115 lectures, 26 hours)  
 - [ ] [SAP S/4HANA Training - in Plain English](https://www.udemy.com/share/10145aBkIec1tQR3o=/) (54 lectures, 7 hours)  
 - [ ] [The Business Intelligence Analyst Course 2019](https://www.udemy.com/share/100Zm8BkIec1tQR3o=/) (405 lectures, 19 hours)  
-- [ ] [SAP BW 7.4 ZERO TO HERO - MODELING](https://www.udemy.com/share/101aKyBkIec1tQR3o=/) (55 lectures, 11 hours) ![Progress](http://progress-bar.dev/2)   
+- [ ] [SAP BW 7.4 ZERO TO HERO - MODELING](https://www.udemy.com/share/101aKyBkIec1tQR3o=/) (55 lectures, 11 hours) █░░░░░░░░░░░░ 2%   
 - [ ] [SAP BI /SAP Business Objects Web Intelligence](https://www.udemy.com/share/101aKABkIec1tQR3o=/) (26 lectures, 4 hours)  
 - [ ] [The Business Intelligence Analyst Course 2019](https://www.udemy.com/share/100Zm8BkIec1tQR3o=/) (405 lectures, 19 hours)  
 - [ ] [Learn SAP BEx Analyzer - Training Course](https://www.udemy.com/share/101aLgBkIec1tQR3o=/) (59 lectures, 11 hours)  
