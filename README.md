@@ -24,8 +24,8 @@ Others
 [Version 1](https://github.com/Nov05/Shiny-Text_Input_Prediction)  
 [Version 2](https://github.com/Nov05/Shiny-Text_Input_Prediction-V2)  
 - [X] [Coursera Data Science Simple Shiny App Chinese Cities](https://github.com/Nov05/Shiny-CN_Cities) ██████████ 100%    
-- [X] [Coursera Data Science Simple Shiny App US Census 2010](https://github.com/Nov05/Shiny-US_Cencus_2010)██████████ 100%  
-- [X] [Coursera Data Scicence Simple Slidify Presentation Chinese Cities](https://github.com/Nov05/Slidify-CN_Cities)██████████ 100%  
+- [X] [Coursera Data Science Simple Shiny App US Census 2010](https://github.com/Nov05/Shiny-US_Cencus_2010) ██████████ 100%  
+- [X] [Coursera Data Scicence Simple Slidify Presentation Chinese Cities](https://github.com/Nov05/Slidify-CN_Cities) ██████████ 100%  
 
 # 【MOOC】  
 
@@ -58,7 +58,7 @@ Others
 
 # :mortar_board: Coursera
 
-#### :point_right: [【Deep Learning Specialization】](https://www.coursera.org/specializations/deep-learning) [【Notes】](https://github.com/Nov05/Coursera-Deep_Learning_Specialization) (7 courses, 11 hours/weeks * 13 weeks) ████░░░░░░░░ 36%  
+#### :point_right: [【Deep Learning Specialization】](https://www.coursera.org/specializations/deep-learning) [Repository](https://github.com/Nov05/Coursera-Deep_Learning_Specialization) (7 courses, 11 hours/weeks * 13 weeks) ████░░░░░░░░ 36%  
 
 - [X] Precourse 1. AI For Everyone  
 - [X] Precourse 2. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning  
@@ -68,7 +68,7 @@ Others
 - [ ] 4. Convolutional Neural Networks  
 - [ ] 5. Sequence Models 
 
-#### :point_right: [【Data Science Specialization】](https://www.coursera.org/specializations/jhu-data-science?) [【Notes】](https://github.com/Nov05/Coursera-Data_Science-Courses) (10 courses, 400 hours) ██████████ 100%  
+#### :point_right: [【Data Science Specialization】](https://www.coursera.org/specializations/jhu-data-science?) [Repository](https://github.com/Nov05/Coursera-Data_Science-Courses) (10 courses, 400 hours) ██████████ 100%  
 
 - [X] 1. The Data Scientist’s Toolbox  
 - [X] 2. R Programming  
@@ -79,7 +79,7 @@ Others
 - [X] 7. Regression Models  
 - [X] 8. Practical Machine Learning  
 - [X] 9. Developing Data Products  
-- [X] 10. [Data Science Capstone](https://github.com/Nov05/Coursera-Data_Science-Capstone) [【Notes】](https://github.com/Nov05/Coursera-Data_Science-Capstone) 
+- [X] 10. [Data Science Capstone](https://github.com/Nov05/Coursera-Data_Science-Capstone) [Repostiory](https://github.com/Nov05/Coursera-Data_Science-Capstone) 
 
 
 # :mortar_board: DataCamp
@@ -101,7 +101,7 @@ Others
 
 # :mortar_board: Udemy
 
-[【Notes】](https://github.com/Nov05/Udemy) 
+#### :point_right: [Repository](https://github.com/Nov05/Udemy) 
 
 #### :point_right:【SAP】
 
