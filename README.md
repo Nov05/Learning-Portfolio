@@ -84,7 +84,7 @@ Others
 
 # :mortar_board: DataCamp
 
-#### :point_right: [【Repository】](https://github.com/Nov05/DataCamp)  
+#### :point_right: [Repository](https://github.com/Nov05/DataCamp)  
 
 #### :point_right:【Courses】  
 
