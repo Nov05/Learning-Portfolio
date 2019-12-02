@@ -1,7 +1,7 @@
 # 【Nov05's Part Time Learning Portfolio】
 
 **SAP 【198 hours committed】    
-Data Science 【421 hours committed】  
+Data Science 【425 hours committed】  
 Machine Learning 【200 hours committed】**
 
 Computer Science  
@@ -55,8 +55,8 @@ Others
 - [X] [Introduction to Computer Science (February 2012)](https://classroom.udacity.com/courses/cs101-old) (22 Lessons)  
 - [X] [Intro to Artificial Intelligence (November 2011)](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271) (2 months, 80 hours)
 
-
-# :mortar_board: Coursera
+-
+#-:mortar_board: Coursera
 
 #### :point_right: [【Deep Learning Specialization】](https://www.coursera.org/specializations/deep-learning) [Repository](https://github.com/Nov05/Coursera-Deep_Learning_Specialization) (7 courses, 11 hours/weeks * 13 weeks) ████░░░░░░░░ 36%  
 
@@ -88,6 +88,7 @@ Others
 
 #### :point_right:【Courses】  
 
+- [X] [https://www.datacamp.com/courses/preparing-for-machine-learning-interview-questions-in-python](Preparing for Machine Learning Interview Questions in Python) (4 hours, 16 Videos, 60 Exercises, 1,183 Participants) 2019-12-02    
 - [X] [Advanced NLP with spaCy](https://www.datacamp.com/courses/advanced-nlp-with-spacy) (5 hours, 15 Videos, 55 Exercises, 4,719 Participants) 2019-09-19 [[Colab Notebook]](https://colab.research.google.com/drive/1YJG-UpClTbaWJ9FBDXZi5shNbkDDRFI_)        
 - [X] [Introduction to Seaborn](https://www.datacamp.com/courses/introduction-to-seaborn) (4 hours, 14 Videos, 44 Exercises, 375 Participants) 2019-05-20  
 - [X] [Working with Dates and Times in Python](https://www.datacamp.com/courses/working-with-dates-and-times-in-python) (4 hours, 14 Videos, 48 Exercises, 790 Participants) 2019-05-17  
