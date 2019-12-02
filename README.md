@@ -27,6 +27,9 @@ Others
 - [X] [Coursera Data Science Simple Shiny App US Census 2010](https://github.com/Nov05/Shiny-US_Cencus_2010) ██████████ 100%  
 - [X] [Coursera Data Scicence Simple Slidify Presentation Chinese Cities](https://github.com/Nov05/Slidify-CN_Cities) ██████████ 100%  
 
+
+
+
 # 【MOOC】  
 
 # :mortar_board: openSAP
@@ -49,14 +52,20 @@ Others
 - [X] [Introduction to Software Development on SAP HANA (hana1)](https://open.sap.com/courses/hana1) (4 hours/week * 6 weeks)  
 
 
+
+
+
 # :mortar_board: Udacity
 
 - [X] [PyTorch Scholarship Challenge](https://classroom.udacity.com/nanodegrees/nd188/dashboard/overview) (2 months, 120 hours)  
 - [X] [Introduction to Computer Science (February 2012)](https://classroom.udacity.com/courses/cs101-old) (22 Lessons)  
 - [X] [Intro to Artificial Intelligence (November 2011)](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271) (2 months, 80 hours)
 
--
-#-:mortar_board: Coursera
+
+
+
+
+# :mortar_board: Coursera
 
 #### :point_right: [【Deep Learning Specialization】](https://www.coursera.org/specializations/deep-learning) [Repository](https://github.com/Nov05/Coursera-Deep_Learning_Specialization) (7 courses, 11 hours/weeks * 13 weeks) ████░░░░░░░░ 36%  
 
@@ -82,6 +91,10 @@ Others
 - [X] 10. [Data Science Capstone](https://github.com/Nov05/Coursera-Data_Science-Capstone) [Repostiory](https://github.com/Nov05/Coursera-Data_Science-Capstone) 
 
 
+
+
+
+
 # :mortar_board: DataCamp
 
 #### :point_right: [Repository](https://github.com/Nov05/DataCamp)  
@@ -99,6 +112,12 @@ Others
 - [X] [2. Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science) (4 hours, 18 Videos, 87 Exercises) 2019-05-28  
 - [ ] [3. Python Data Science Toolbox (Part 1)](https://www.datacamp.com/courses/python-data-science-toolbox-part-1) (3 hours
 12 Videos, 46 Exercises)  
+
+
+
+
+
+
 
 # :mortar_board: Udemy
 
@@ -137,6 +156,14 @@ Others
 
 - [ ] [AWS Certified Solutions Architect - Associate 2019](https://www.udemy.com/aws-certified-solutions-architect-associate/) (211 lectures, 32.5 hours)  
 - [ ] [Learn Ethical Hacking From Scratch](https://www.udemy.com/learn-ethical-hacking-from-scratch/) (140 lectures, 14.5 hours)  
+
+
+
+
+
+
+
+
 
 # :mortar_board: Khan Academy
 
