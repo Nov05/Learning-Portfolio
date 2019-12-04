@@ -34,7 +34,7 @@ Others
 
 # :mortar_board: openSAP
 
-[【Notes】](https://github.com/Nov05/openSAP)  
+#### :point_right: [Repository](https://github.com/Nov05/openSAP)  
 
 - [X] [Introduction to Statistics for Data Science (ds0)](https://open.sap.com/courses/ds0) (3 hours/week * 6 weeks) 2019-11-28
 - [X] [Introduction to SUSE Linux Enterprise Server (SLES)](https://open.sap.com/courses/suse1-pc) (2 hours/week * 4 weeks) 2019-11-19  
