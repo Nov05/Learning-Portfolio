@@ -1,6 +1,6 @@
 # 【Nov05's Part Time Learning Portfolio】
 
-**SAP 【198 hours committed】    
+**SAP 【210 hours committed】    
 Data Science 【425 hours committed】  
 Machine Learning 【200 hours committed】**
 
@@ -36,6 +36,7 @@ Others
 
 #### :point_right: [Repository](https://github.com/Nov05/openSAP)  
 
+- [X] [Key Functional Topics in a System Conversion to SAP S/4HANA (s4h15)](https://open.sap.com/courses/s4h15) (3 hours/week * 4 weeks) 2019-12-12   
 - [X] [Introduction to Statistics for Data Science (ds0)](https://open.sap.com/courses/ds0) (3 hours/week * 6 weeks) 2019-11-28
 - [X] [Introduction to SUSE Linux Enterprise Server (SLES)](https://open.sap.com/courses/suse1-pc) (2 hours/week * 4 weeks) 2019-11-19  
 - [X] [SAP Leonardo - Enabling the Intelligent Enterprise (leo1)](https://open.sap.com/courses/leo1) (2 hours)  
