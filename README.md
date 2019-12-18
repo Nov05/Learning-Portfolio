@@ -1,6 +1,6 @@
 # 【Nov05's MOOC Learning Portfolio】
 
-**SAP 【210 hours committed】    
+**SAP 【222 hours committed】    
 Data Science 【425 hours committed】  
 Machine Learning 【200 hours committed】**
 
@@ -36,6 +36,7 @@ Others
 
 #### :point_right: [Repository](https://github.com/Nov05/openSAP)  
 
+- [X] [How to Build Bots with SAP Intelligent Robotic Process Automation (rpa2)](https://open.sap.com/courses/rpa2) (3 hours/week * 4 weeks) 2019-12-18   
 - [X] [Key Functional Topics in a System Conversion to SAP S/4HANA (s4h15)](https://open.sap.com/courses/s4h15) (3 hours/week * 4 weeks) 2019-12-12   
 - [X] [Introduction to Statistics for Data Science (ds0)](https://open.sap.com/courses/ds0) (3 hours/week * 6 weeks) 2019-11-28
 - [X] [Introduction to SUSE Linux Enterprise Server (SLES)](https://open.sap.com/courses/suse1-pc) (2 hours/week * 4 weeks) 2019-11-19  
