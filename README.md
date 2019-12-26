@@ -6,7 +6,7 @@ Machine Learning 【200 hours committed】**
 
 Computer Science  
 Mathematics  
-Others  
+Others 【4 hours commited】　  
 
 # 【Project】
 
@@ -164,9 +164,6 @@ Others
 
 
 
-
-
-
 # :mortar_board: Khan Academy
 
 #### :point_right: [【Computer Science】](https://www.khanacademy.org/computing/computer-science)  
@@ -184,6 +181,18 @@ Others
 - [ ] [Calculus 1](https://www.khanacademy.org/math/calculus-1)  
 - [ ] [Calculus 2](https://www.khanacademy.org/math/calculus-2)  
 - [ ] [Math for Fun and Glory](https://www.khanacademy.org/math/math-for-fun-and-glory)  
+
+
+
+
+
+
+
+# :mortar_board: Others
+
+#### :point_right: [【AWS】](https://github.com/Nov05/AWS)    
+
+- [X] [Overview on Data Lakes](https://pages.awscloud.com/OTT-Learning-Path-Overview-on-Data-Lakes.html) (Data Lakes & Analytics, 6 Webinars, 4 Hours) ██████████ 100%  
 
 
 
