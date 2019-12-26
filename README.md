@@ -192,7 +192,7 @@ Others 【4 hours commited】　
 
 #### :point_right: [【AWS】](https://github.com/Nov05/AWS)    
 
-- [X] [Overview on Data Lakes](https://pages.awscloud.com/OTT-Learning-Path-Overview-on-Data-Lakes.html) (Data Lakes & Analytics, 6 Webinars, 4 Hours) ██████████ 100%  
+- [X] [Overview on Data Lakes](https://pages.awscloud.com/OTT-Learning-Path-Overview-on-Data-Lakes.html) (Data Lakes & Analytics, 6 Webinars, 4 Hours) 2019-12-25 ██████████ 100%  
 
 
 
