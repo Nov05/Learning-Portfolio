@@ -9,9 +9,7 @@ Mathematics
 Others 【4 hours commited】　  
 
 # 【Project】
-
-- [ ] [Udacity Secure and Private AI Challenge](https://github.com/Nov05/Udacity-Secure-and-Private-AI-Challenge) (3 months, 120 hours) 1/7 █▓░░░░░░░░░░ 14%  
-- [X] [Udacity Pytorch Challenge](https://github.com/Nov05/Udacity-PyTorch_Challenge) (2 months, 120 hours) ██████████ 100%    
+  
 [4.09-4.11 Training Neural Networks](https://github.com/Nov05/Udacity-PyTorch_Challenge/blob/master/Assignment/4.09-11_Part%203%20-%20Training%20Neural%20Networks%20(Exercises).ipynb)  
 [4.12-4.13 Classifying Fashion-MNIST](https://github.com/Nov05/Udacity-PyTorch_Challenge/blob/master/Assignment/4.12-13_Part%204%20-%20Fashion-MNIST%20(Exercises).ipynb)  
 [5.08-5.13 Multi-Layer Perceptron, Classifying MNIST Hand-Written Digits](https://github.com/Nov05/Udacity-PyTorch_Challenge/blob/master/Assignment/5.08-13_mnist_mlp_exercise.ipynb)  
@@ -55,15 +53,12 @@ Others 【4 hours commited】　
 
 
 
-
-
 # :mortar_board: Udacity
 
-- [X] [PyTorch Scholarship Challenge](https://classroom.udacity.com/nanodegrees/nd188/dashboard/overview) (2 months, 120 hours)  
+- [ ] [Secure and Private AI Scholarship Challenge](https://github.com/Nov05/Udacity-Secure-and-Private-AI-Challenge) (3 months, 120 hours) 1/7 █▓░░░░░░░░░░ 14%  
+- [X] [Pytorch Scholarship Challenge](https://github.com/Nov05/Udacity-PyTorch_Challenge) (2 months, 120 hours) ██████████ 100%  
 - [X] [Introduction to Computer Science (February 2012)](https://classroom.udacity.com/courses/cs101-old) (22 Lessons)  
 - [X] [Intro to Artificial Intelligence (November 2011)](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271) (2 months, 80 hours)
-
-
 
 
 
